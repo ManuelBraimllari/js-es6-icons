@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+h1{
+    font-size: 70px;
+}
+.parte-superiore{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 55, 255);
+    height: 50px;
+}
+
+.paragrafo{
+    margin: auto 0;
+    color: white;
+}
+
+.dropdown{
+    margin: auto 1rem;
+}
